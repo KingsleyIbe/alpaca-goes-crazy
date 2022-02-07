@@ -1,0 +1,184 @@
+{
+  "continents": [
+    {
+      "code": "AF",
+      "name": "Africa",
+      "countries": [
+        {
+          "code": "AO",
+          "name": "Angola",
+          "languages": [
+            {
+              "code": "pt",
+              "name": "Portuguese",
+              "native": "Português"
+            }
+          ]
+        },
+        {
+          "code": "BF",
+          "name": "Burkina Faso",
+          "languages": [
+            {
+              "code": "fr",
+              "name": "French",
+              "native": "Français"
+            },
+            {
+              "code": "ff",
+              "name": "Peul",
+              "native": "Fulfulde"
+            }
+          ]
+        },
+        {
+          "code": "BI",
+          "name": "Burundi",
+          "languages": [
+            {
+              "code": "fr",
+              "name": "French",
+              "native": "Français"
+            },
+            {
+              "code": "rn",
+              "name": "Kirundi",
+              "native": "Kirundi"
+            }
+          ]
+        },
+        {
+          "code": "BJ",
+          "name": "Benin",
+          "languages": [
+            {
+              "code": "fr",
+              "name": "French",
+              "native": "Français"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "EU",
+      "name": "Europe",
+      "countries": [
+        {
+          "code": "AO",
+          "name": "England",
+          "languages": [
+            {
+              "code": "pt",
+              "name": "Portuguese",
+              "native": "Português"
+            }
+          ]
+        },
+        {
+          "code": "BF",
+          "name": "Norway",
+          "languages": [
+            {
+              "code": "fr",
+              "name": "French",
+              "native": "Français"
+            },
+            {
+              "code": "ff",
+              "name": "Peul",
+              "native": "Fulfulde"
+            }
+          ]
+        },
+        {
+          "code": "BI",
+          "name": "France",
+          "languages": [
+            {
+              "code": "fr",
+              "name": "French",
+              "native": "Français"
+            },
+            {
+              "code": "rn",
+              "name": "Kirundi",
+              "native": "Kirundi"
+            }
+          ]
+        },
+        {
+          "code": "BJ",
+          "name": "Germany",
+          "languages": [
+            {
+              "code": "fr",
+              "name": "French",
+              "native": "Français"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AS",
+      "name": "Asia",
+      "countries": [
+        {
+          "code": "AO",
+          "name": "Angola",
+          "languages": [
+            {
+              "code": "pt",
+              "name": "Portuguese",
+              "native": "Português"
+            }
+          ]
+        },
+        {
+          "code": "BF",
+          "name": "Burkina Faso",
+          "languages": [
+            {
+              "code": "fr",
+              "name": "French",
+              "native": "Français"
+            },
+            {
+              "code": "ff",
+              "name": "Peul",
+              "native": "Fulfulde"
+            }
+          ]
+        },
+        {
+          "code": "BI",
+          "name": "Burundi",
+          "languages": [
+            {
+              "code": "fr",
+              "name": "French",
+              "native": "Français"
+            },
+            {
+              "code": "rn",
+              "name": "Kirundi",
+              "native": "Kirundi"
+            }
+          ]
+        },
+        {
+          "code": "BJ",
+          "name": "Benin",
+          "languages": [
+            {
+              "code": "fr",
+              "name": "French",
+              "native": "Français"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

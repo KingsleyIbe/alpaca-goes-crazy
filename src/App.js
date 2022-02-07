@@ -1,9 +1,16 @@
 import './assets/styles/App.css';
+import Header from './components/Header';
+import dataContext from './utilities/context';
+import Continents from './components/Continents';
+import data from './utilities/data.json';
 
 function App() {
   return (
     <div className="App">
-      <h1>Comming soon...</h1>
+      <dataContext.Provider value={data}>
+        <Header />
+        <Continents />
+      </dataContext.Provider>
     </div>
   );
 }
